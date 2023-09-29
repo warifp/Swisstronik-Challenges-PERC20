@@ -27,7 +27,7 @@ Smart Contract : 0xb897612a47498E069fe13914Adb5b17475FD5734
 EVM            : 0xfE46d95aE3d46d2ff11C246a38bcb4456621f9e6
 ```
 
-## Deployed on Token
+## Deployed Token
 
 ```
 Token Name   : WARIFP
