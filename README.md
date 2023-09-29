@@ -38,8 +38,6 @@ Token Symbol : WAP
 
 ### Mint Token
 
-TX Mint
-
 ```
 https://explorer-evm.testnet.swisstronik.com/tx/0xc273da54e2978c0add5f1f41154553e18c1278f51d3e734917799cda9a8e16dd
 ```
