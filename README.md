@@ -23,7 +23,7 @@ npm run transfer
 ## Deployed Contracts
 
 ```
-Smart Contract : 0xb897612a47498E069fe13914Adb5b17475FD5734
+Smart Contract : 0x53B0e4c4a799B8F298e7b8821B5731860A6Be6a8
 EVM            : 0xfE46d95aE3d46d2ff11C246a38bcb4456621f9e6
 ```
 
@@ -39,14 +39,14 @@ Token Symbol : WAP
 ### Mint Token
 
 ```
-https://explorer-evm.testnet.swisstronik.com/tx/0xc273da54e2978c0add5f1f41154553e18c1278f51d3e734917799cda9a8e16dd
+https://explorer-evm.testnet.swisstronik.com/tx/0xfb4bd07e9a73443fd1c682418a6a2ee9ebd0edf2705516f9e602241c08afe36c
 ```
 
 TX Transfer
 Token Transfer "1" to Address ```0x16af037878a6cAce2Ea29d39A3757aC2F6F7aac1```
 
 ```
-https://explorer-evm.testnet.swisstronik.com/tx/0xe5583aded7b6d9eddff3272d7d21cc8b7272a2d50f4c305df2e7f8391253b6de
+https://explorer-evm.testnet.swisstronik.com/tx/0xc50147bae7879b4072cc0681745a41a7ee54e7fca25814fdb614e3673cc951f3
 ```
 
 ## Image Proof
