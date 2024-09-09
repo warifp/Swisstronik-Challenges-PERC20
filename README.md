@@ -48,7 +48,3 @@ Token Transfer "1" to Address ```0x16af037878a6cAce2Ea29d39A3757aC2F6F7aac1```
 ```
 https://explorer-evm.testnet.swisstronik.com/tx/0xc50147bae7879b4072cc0681745a41a7ee54e7fca25814fdb614e3673cc951f3
 ```
-
-## Image Proof
-
-![Proof](proof_image.png)
