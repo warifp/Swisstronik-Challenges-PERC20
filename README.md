@@ -39,12 +39,12 @@ Token Symbol : WAP
 ### Mint Token
 
 ```
-https://explorer-evm.testnet.swisstronik.com/tx/0xfb4bd07e9a73443fd1c682418a6a2ee9ebd0edf2705516f9e602241c08afe36c
+https://explorer-evm.testnet.swisstronik.com/tx/0x7f952e32ce6e6ee427022e6454b02632ec3a0d020c0b060abb85c2e98ab51a3a
 ```
 
 TX Transfer
 Token Transfer "1" to Address ```0x16af037878a6cAce2Ea29d39A3757aC2F6F7aac1```
 
 ```
-https://explorer-evm.testnet.swisstronik.com/tx/0xc50147bae7879b4072cc0681745a41a7ee54e7fca25814fdb614e3673cc951f3
+https://explorer-evm.testnet.swisstronik.com/tx/0x6e169553330de9c19da732a1b20260552fca9d2af8d685ba4c1bffe6c73c6cc7
 ```
